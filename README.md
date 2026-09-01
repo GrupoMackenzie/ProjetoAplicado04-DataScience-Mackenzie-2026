@@ -51,9 +51,7 @@ A definir.
 ## 🔗 Links para o Documento do Projeto
 ---
 
-[Documento Oficial]
-[Esboço do Data Storytelling]
-[Vídeo do projeto]
+[[Documento Entrega 01](https://github.com/GrupoMackenzie/ProjetoAplicado04-DataScience-Mackenzie-2026/blob/main/docs/PA04_A1.pdf)]
 
 ## 🚀 Como Usar
 ---
